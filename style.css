@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
 }
+body font-family: 'Dancing Script', cursive;
 
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #79241e;
+    color: rgb(146, 38, 38);
     display: flex;
     justify-content: space-around;
     align-items: center;
